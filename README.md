@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, i am <a href="MIKEEP0">Mike</a> </h1>
 </div>
+<div align="center">
 <img src="https://imgur.com/0ZPeI53.png">
+</div>
 ## Sobre mi
 
 - Full Stack Developer.
