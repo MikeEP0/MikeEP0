@@ -15,13 +15,23 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is 
+I am a Full Stack developer, passionate about creating innovative and scalable solutions. I love change, the unknown and I always look for new challenges, both in life and in code.
+
+**How could I help?**
+
+My mission is to drive change through programming, transforming ideas into functional and scalable applications, I enjoy working in teams, where I can contribute my leadership, effective communication and problem-solving skills.
+
+**What am I looking for?**
+
+I seek to help and contribute from the code, creating challenging projects that have a positive impact, looking for solutions and making everyday life easier.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+
+**How could I help?**
+
+
 
 <p align="center">
 
